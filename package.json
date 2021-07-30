@@ -1,7 +1,7 @@
 {
   "name": "random-messages-jogman",
   "version": "1.1.0",
-  "description": "Random de mensajes",
+  "description": "I don't know what to write for the first commit",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,15 @@
   "author": "Juanito Ortega <ceo@creativa.dev>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanitoOrtega/random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JuanitoOrtega/random-messages/issues"
+  },
+  "homepage": "https://github.com/JuanitoOrtega/random-messages#readme"
 }
