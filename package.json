@@ -1,0 +1,20 @@
+{
+  "name": "random-messages-jogman",
+  "version": "1.1.0",
+  "description": "Random de mensajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Juanito Ortega <ceo@creativa.dev>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
